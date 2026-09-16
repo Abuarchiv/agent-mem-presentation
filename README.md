@@ -1,6 +1,6 @@
 # agent-mem presentation
 
-English eight-minute hackathon presentation for `agent-mem`.
+English 5:35-minute core talk for an eight-minute `agent-mem` hackathon slot, with time reserved for the live walkthrough and questions.
 
 ## Contents
 
